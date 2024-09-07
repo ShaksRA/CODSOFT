@@ -374,3 +374,7 @@ export default {
 ```
 
 </details>
+
+## Screenshot of the Output
+
+![image](https://github.com/user-attachments/assets/1060ded6-f056-4903-8fef-f1a724c7ba45)
